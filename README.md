@@ -7,7 +7,7 @@ I'm a web dev and software engineer enthusiast who loves to do Graphic and UI/UX
 - <a href="https://linkedin.com/in/arsawjy/">LinkedIn</a>
 - <a href="https://twitter/arsaswork">Twitter</a>
 - <a href="https://www.behance.net/arsawjy">Twitter</a>
-- arsawjy.carrd.co
+- <a href="arsawjy.carrd.co">Carrd</a>
 - work.arsawjy@gmail.com
 
 ### Github Statistic
